@@ -1,0 +1,3 @@
+# Install the platform-appropriate PyTorch build using https://pytorch.org/get-started/locally/
+# Then install optional helpers below.
+matplotlib>=3.8
